@@ -15,6 +15,7 @@ SVG icons dedicated for user interfaces in medical software tools.
 ![](svg-dark/action-save.svg)
 ![](svg-dark/tool-bezier.svg)
 ![](svg-dark/arrow-up.svg)
+![](svg-dark/icon-cross.svg)
 ![](svg-dark/organ-lung.svg)
 
 Directory *svg-dark* contains dark icons for use in light UI themes, whereas

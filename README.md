@@ -52,7 +52,20 @@ Please take a look at *uitest.py* in the *scripts* directory for inspiration.
 
 ## Contributing
 
-Coming soon.
+### Generating PNGs
+
+[Inkscape](https://inkscape.org) needs to be installed to batch-convert
+all icons (both white & dark) to PNGs.
+
+```bash
+./scripts/generate-png.sh
+```
+
+should be sufficient for batch conversion on Unix systems with inkscape
+installed.
+Please note that PNG files are blacklisted in gitignore and will thus not
+appear in the repo.
+
 
 ## Contributors
 

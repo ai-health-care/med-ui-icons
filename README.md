@@ -15,3 +15,11 @@ SVG icons dedicated for user interfaces in medical software tools.
 ![](svg-dark/icon-cross.svg)
 
 Directory *svg-dark* contains dark icons for use in light UI themes, whereas *svg-white* contains white icons for use in dark UI themes.
+
+
+License: [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0).
+Please give credit to our contributors.
+
+## Contributors
+
+* Henry Krumb, TU Darmstadt

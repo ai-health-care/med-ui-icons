@@ -37,7 +37,8 @@ class MainWindow(QtWidgets.QMainWindow):
             'action-save',
             'tool-bezier',
             'arrow-up',
-            'icon-cross'
+            'icon-cross',
+            'organ-lung'
         ]
         for ico in icons:
             action = QtWidgets.QAction(icon(ico, theme), ico.title(), self)

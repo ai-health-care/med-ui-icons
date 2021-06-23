@@ -5,7 +5,7 @@
 scriptdir=$(dirname "$0")
 cd "$scriptdir"
 
-./dark-from-white
+./dark-from-white.sh
 
 mkdir -p ../png-white
 mkdir -p ../png-dark

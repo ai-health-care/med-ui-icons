@@ -24,12 +24,12 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="3.6636623"
-     inkscape:cx="5.8684448"
-     inkscape:cy="41.48854"
-     inkscape:window-width="945"
-     inkscape:window-height="1017"
-     inkscape:window-x="856"
-     inkscape:window-y="26"
+     inkscape:cx="5.7319693"
+     inkscape:cy="41.352065"
+     inkscape:window-width="1547"
+     inkscape:window-height="928"
+     inkscape:window-x="187"
+     inkscape:window-y="86"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      units="px"
@@ -40,11 +40,9 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <circle
-       style="fill:none;stroke:#ffffff;stroke-width:0.499999;stroke-linejoin:bevel;paint-order:markers fill stroke"
-       id="circle14947"
-       cx="8.4666672"
-       cy="8.4666634"
-       r="5.2916665" />
+    <path
+       style="color:#000000;#202020;stroke-linejoin:bevel;-inkscape-stroke:none;paint-order:markers fill stroke"
+       d="m 8.4667969,2.765625 c -3.1434254,0 -5.7011719,2.5577465 -5.7011719,5.7011719 0,3.1434251 2.5577465,5.7011721 5.7011719,5.7011721 3.1434251,0 5.7011721,-2.557747 5.7011721,-5.7011721 0,-3.1434254 -2.557747,-5.7011719 -5.7011721,-5.7011719 z m 0,0.8183594 c 2.7015821,0 4.8828121,2.1812302 4.8828121,4.8828125 0,2.7015821 -2.18123,4.8828121 -4.8828121,4.8828121 -2.7015823,0 -4.8828125,-2.18123 -4.8828125,-4.8828121 0,-2.7015823 2.1812302,-4.8828125 4.8828125,-4.8828125 z"
+       id="circle14947" />
   </g>
 </svg>

@@ -2,6 +2,7 @@
 import os
 import sys
 
+import click
 
 from PySide2 import QtGui, QtWidgets
 try:
@@ -13,15 +14,15 @@ except ImportError:
         def apply_stylesheet(app, theme):
             print('Could not apply stylesheet')
 
-def icon(icon):
+def icon(icon, theme):
     base = os.path.dirname(__file__)
-    path = os.path.join(base, '..', 'svg-white', icon + '.svg')
+    path = os.path.join(base, '..', theme, icon + '.svg')
     return QtGui.QIcon(path)
 
 
 
 class MainWindow(QtWidgets.QMainWindow):
-    def __init__(self):
+    def __init__(self, theme):
         super().__init__()
         toolbar = QtWidgets.QToolBar()
         
@@ -33,16 +34,23 @@ class MainWindow(QtWidgets.QMainWindow):
             'icon-cross'
         ]
         for ico in icons:
-            action = QtWidgets.QAction(icon(ico), ico.title(), self)
+            action = QtWidgets.QAction(icon(ico, theme), ico.title(), self)
             toolbar.addAction(action)
         self.addToolBar(toolbar)
 
 
-def main():
+@click.command()
+@click.option('--dark', '-d', is_flag=True)
+def main(dark):
     app = QtWidgets.QApplication(sys.argv)
-    apply_stylesheet(app, theme='dark_teal.xml')
+    if dark:
+        apply_stylesheet(app, theme='dark_teal.xml')
+        theme = 'svg-white'
+    else:
+        apply_stylesheet(app, theme='teal.xml')
+        theme = 'svg-dark'
 
-    window = MainWindow()
+    window = MainWindow(theme)
     window.show()
     sys.exit(app.exec_())
 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="organ-liver.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     width="64px"
+     inkscape:zoom="7.3273246"
+     inkscape:cx="60.936293"
+     inkscape:cy="45.71928"
+     inkscape:window-width="1920"
+     inkscape:window-height="1059"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid29" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path53"
+       style="fill:#fc4c4c;fill-opacity:1;stroke:none;stroke-width:0.623679;stroke-linejoin:bevel"
+       d="m 11.365821,3.9087665 c -0.601506,0.00218 -1.2309,0.026771 -1.8577772,0.070916 0.6094252,0.975364 0.5199662,2.0258877 1.0180802,2.8264142 0.399862,0.6426254 0.623454,0.9221466 1.166724,1.3806161 C 12.263779,7.9142175 13.54225,7.4443914 15.156044,5.5523409 16.188091,4.3423463 14.050415,3.8989542 11.365821,3.9087665 Z M 9.2593348,4.0258766 C 8.0016425,4.1484979 6.2299372,4.3676108 5.3436687,4.6062429 2.1418165,6.6684947 3.3943769,10.12368 2.4648848,12.637232 3.6588721,14.98515 4.3303054,12.416866 6.6795802,10.63741 7.4328336,10.066859 8.304061,10.14564 9.469898,9.4143239 10.492884,8.772616 10.987421,8.4118622 11.442198,8.3237057 10.982661,8.0182976 10.559887,7.4823058 10.206407,6.9142228 9.6572777,6.0317089 9.9496149,5.1371735 9.2593348,4.0258766 Z"
+       sodipodi:nodetypes="scscsscccsscsc" />
+    <path
+       id="path10296"
+       style="fill:#87deaa;stroke-width:0.899685;stroke-linejoin:bevel"
+       d="m 6.6238742,11.196768 c 0,0.489626 -0.4875776,1.99069 -1.089035,1.99069 -0.6014574,0 -1.0890351,-0.39692 -1.0890351,-0.886544 0,-0.489626 0.4521312,-1.583355 1.0535886,-1.583355 0.6014574,0 1.1244815,-0.01041 1.1244815,0.479209 z"
+       sodipodi:nodetypes="sssss" />
+  </g>
+</svg>

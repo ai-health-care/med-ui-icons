@@ -40,22 +40,22 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1.0583334,1.0583328 v 4.233334 h 1.058333 v -3.175 h 3.175 v -1.058334 z"
        id="path6730"
        sodipodi:nodetypes="ccccccc" />
     <path
-       style="#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 15.874998,1.0583328 v 4.233334 h -1.058333 v -3.175 h -3.175 v -1.058334 z"
        id="path7058"
        sodipodi:nodetypes="ccccccc" />
     <path
-       style="#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 15.874998,15.875 v -4.233333 h -1.058333 v 3.175 h -3.175 V 15.875 Z"
        id="path7060"
        sodipodi:nodetypes="ccccccc" />
     <path
-       style="#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1.0583334,15.874999 v -4.233333 h 1.058333 v 3.175 h 3.175 v 1.058333 z"
        id="path7062"
        sodipodi:nodetypes="ccccccc" />

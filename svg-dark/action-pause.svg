@@ -40,11 +40,11 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 4.2333344,2.116666 h 3.175 v 12.7 h -3.175 z"
        id="path13060" />
     <path
-       style="#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 9.5250014,2.116666 h 3.1749996 v 12.7 H 9.5250014 Z"
        id="path13208" />
   </g>

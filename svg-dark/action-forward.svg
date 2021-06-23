@@ -41,11 +41,11 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 2.1166638,2.1166664 V 14.816666 l 7.408334,-6.3499996 z"
        id="path13454" />
     <path
-       style="#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 7.4083308,2.1166664 V 14.816666 L 14.816665,8.4666664 Z"
        id="path13456" />
   </g>

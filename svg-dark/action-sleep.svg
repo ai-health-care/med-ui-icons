@@ -40,15 +40,15 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="color:#000000;#202020;-inkscape-stroke:none"
+       style="color:#000000;fill:#202020;-inkscape-stroke:none"
        d="M 2.1171875,9.3417969 V 9.7070313 H 3.7929688 L 1.6757812,11.824219 H 4.2324219 V 11.458984 H 2.5585938 L 4.6738281,9.3417969 Z"
        id="path42975" />
     <path
-       style="color:#000000;#202020;-inkscape-stroke:none"
+       style="color:#000000;fill:#202020;-inkscape-stroke:none"
        d="M 5.5566406,7.125 V 7.6914062 H 8.0488281 L 4.875,10.865234 H 8.7304688 V 10.300781 H 6.2382812 L 9.4140625,7.125 Z"
        id="path43156" />
     <path
-       style="color:#000000;#202020;-inkscape-stroke:none"
+       style="color:#000000;fill:#202020;-inkscape-stroke:none"
        d="m 10.583984,4.859375 v 0.8652344 h 2.13086 L 9.5390625,8.8984375 H 13.757813 V 8.0332031 H 11.628906 L 14.802734,4.859375 Z"
        id="path43313" />
   </g>

@@ -40,22 +40,22 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 8.4666677,1.0583331 -3.175,2.6458334 h 1.5875 v 2.38125 h 3.1750003 l -1e-6,-2.38125 h 1.5875 z"
        id="path6128"
        sodipodi:nodetypes="cccccccc" />
     <path
-       style="#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 8.4666677,15.874999 3.1750003,-2.645834 h -1.5875 V 10.847916 H 6.8791667 l 1e-6,2.381249 h -1.5875 z"
        id="path6246"
        sodipodi:nodetypes="cccccccc" />
     <path
-       style="#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 15.875001,8.4666665 -2.645834,-3.175 v 1.5875 l -2.381249,1e-6 v 3.1749985 l 2.381249,-1e-6 v 1.5875 z"
        id="path6248"
        sodipodi:nodetypes="cccccccc" />
     <path
-       style="#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#202020;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 1.0583337,8.4666665 2.645834,3.1749985 v -1.5875 l 2.38125,1e-6 V 6.8791665 l -2.38125,-1e-6 v -1.587499 z"
        id="path6250"
        sodipodi:nodetypes="cccccccc" />

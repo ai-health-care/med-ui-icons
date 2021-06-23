@@ -41,7 +41,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="#202020;stroke:none;stroke-width:0.705555px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#202020;stroke:none;stroke-width:0.705555px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 8.4666713,1.0583321 -7.408334,8.466667 h 3.174999 l 3e-6,6.3499999 H 12.700003 V 9.5249991 h 3.175 z"
        id="path13911"
        sodipodi:nodetypes="cccccccc" />

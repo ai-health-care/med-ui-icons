@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg963"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="action-shutdown.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview965"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.2953002"
+     inkscape:cx="174.86294"
+     inkscape:cy="154.40436"
+     inkscape:window-width="945"
+     inkscape:window-height="1017"
+     inkscape:window-x="856"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px" />
+  <defs
+     id="defs960" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;fill:#fc4c4c;fill-opacity:1;stroke-linejoin:bevel;-inkscape-stroke:none;paint-order:markers fill stroke"
+       d="m 6.1977854,3.2467492 c -2.471663,1.073812 -3.853255,3.740596 -3.304687,6.378906 0.548569,2.6383058 2.879352,4.5335058 5.574218,4.5332058 2.6948656,-3e-4 5.0242836,-1.89673 5.5722656,-4.5351588 0.547982,-2.638432 -0.834739,-5.30369 -3.306641,-6.376953 l -0.318359,0.732422 c 2.128557,0.924187 3.313654,3.210517 2.841797,5.482422 -0.471858,2.2719078 -2.468501,3.8962278 -4.7890626,3.8964878 -2.320562,2.5e-4 -4.318652,-1.62469 -4.791015,-3.8964878 -0.472362,-2.271801 0.713445,-4.555808 2.841797,-5.480469 z"
+       id="circle14947-6" />
+    <path
+       style="color:#000000;fill:#fc4c4c;fill-opacity:1;-inkscape-stroke:none"
+       d="m 8.0669264,1.0592492 v 7.408203 h 0.798828 v -7.408203 z"
+       id="path1193" />
+  </g>
+</svg>

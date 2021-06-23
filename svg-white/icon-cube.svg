@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg963"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="icon-cube.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview965"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.2953002"
+     inkscape:cx="231.99255"
+     inkscape:cy="154.01835"
+     inkscape:window-width="1547"
+     inkscape:window-height="928"
+     inkscape:window-x="857"
+     inkscape:window-y="54"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px" />
+  <defs
+     id="defs960" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect18391"
+       style="fill:#ffffff;stroke:none;stroke-width:0.365;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 2.1166693,4.7625008 6.35,-2.116667 6.3499997,2.116667 -6.3499997,2.116667 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect18593"
+       style="fill:#ffffff;stroke:none;stroke-width:0.365;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 1.8520863,5.2916678 6.35,2.116666 v 7.4083332 l -6.35,-2.116666 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect18595"
+       style="fill:#ffffff;stroke:none;stroke-width:0.365;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="M 8.7312523,7.4083338 15.081252,5.2916678 V 12.700001 L 8.7312523,14.816667 Z"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>

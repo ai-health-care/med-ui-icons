@@ -35,3 +35,14 @@ Icons are usually flat without gradients.
 Exceptions can be made, e.g. if the purpose of an icon is to
 represent a dedicated tool for gradients or spotlights.
 
+
+## Naming
+
+Icons have one of the following prefixes:
+
+* **action**: Actions like copy/paste, of file-specific actions
+* **arrow**: Any arrow-like shape
+* **icon**: Symbols that do not fall into any of the other categories
+* **organ**: Body-parts and organs
+* **tool**: Tools for drawing, annotation, segmentation etc.
+

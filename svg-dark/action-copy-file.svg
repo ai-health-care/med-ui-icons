@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg963"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="action-copy-file.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview965"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="7.3273246"
+     inkscape:cx="60.390391"
+     inkscape:cy="32.685873"
+     inkscape:window-width="1547"
+     inkscape:window-height="928"
+     inkscape:window-x="187"
+     inkscape:window-y="86"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     showguides="false" />
+  <defs
+     id="defs960" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path7"
+       style="fill:#f9f9f9;stroke:none;stroke-width:0.175789px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 7.9448538,2.6505206 V 11.088419 H 13.57012 V 4.1443895 H 12.075221 V 2.6508634 2.6505206 Z m 4.3071872,0.088238 v 1.2305268 h 1.230527 z" />
+    <path
+       id="path9"
+       style="fill:#b3b3b3;stroke:none;stroke-width:0.175789px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 4.4101549,6.2036632 V 14.641562 H 10.035421 V 7.6975321 H 8.5405224 V 6.204006 6.2036632 Z m 4.3071873,0.088238 V 7.522428 h 1.2305271 z" />
+    <path
+       id="path39128"
+       style="fill:#f9f9f9;stroke:none;stroke-width:0.175789px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 4.2333351,6.3787673 V 14.816666 H 9.8586013 V 7.8726362 H 8.3637026 V 6.3791101 6.3787673 Z m 4.3071873,0.088238 v 1.2305268 h 1.2305267 z" />
+  </g>
+</svg>

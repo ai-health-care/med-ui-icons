@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg963"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="organ-heart.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview965"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.5906004"
+     inkscape:cx="4.0531144"
+     inkscape:cy="36.671035"
+     inkscape:window-width="957"
+     inkscape:window-height="1055"
+     inkscape:window-x="961"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     showguides="true"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs960" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;fill:#3771c8;fill-opacity:1;-inkscape-stroke:none"
+       d="M 4.4407735,2.1727316 C 3.9395786,2.0839708 3.453985,2.022411 3.1497002,2.2769643 3.2577378,6.2713236 2.4434755,9.7557892 2.9746094,13.642578 3.430019,13.786013 3.9059963,13.979944 4.1035156,13.490234 3.6155218,9.9191403 4.5551789,6.4025214 4.4407735,2.1727316 Z"
+       id="path767"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path3805"
+       style="color:#000000;fill:#aa0000;stroke-width:3.77953;-inkscape-stroke:none"
+       d="m 24.980469,4.0371094 -0.996094,0.00781 0.0098,2.5585937 c -0.664701,0.1976117 -1.345262,0.4533647 -2.023438,0.78125 l -0.490234,-2.9121094 -0.988281,0.1699219 0.552734,3.2382813 c -0.25324,0.1490891 -0.505037,0.3070079 -0.753906,0.4785156 -0.171428,0.1181388 -0.339639,0.2852442 -0.50586,0.4882812 l -1.449218,-2.3886718 -0.855469,0.5175781 1.693359,2.7949219 c -1.002567,1.8047606 -1.824694,4.6457716 -2.195312,5.9707036 2.754377,-0.894024 5.674195,-1.78252 8.355468,-1.830079 0.285577,-0.939276 1.911344,-1.098642 2.509766,-1.052734 3.073248,-0.308314 2.356471,7.260067 10.176718,11.315039 1.274756,-1.569301 3.196985,-2.360556 2.048829,-6.84375 C 39.337423,8.8794717 32.662042,6.4299252 28.746094,6.0683594 27.780823,5.9792343 26.45182,6.0254165 24.988281,6.3457031 Z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="cccccccscccccccccscc" />
+    <path
+       style="color:#000000;fill:#3771c8;fill-opacity:1;-inkscape-stroke:none"
+       d="M 6.7243101,2.8233041 C 5.4816044,3.3704657 5.3540337,4.5945434 4.5346319,4.9980445 L 5.709422,5.6732329 C 7.2685643,4.9054587 7.1856149,2.2074919 11.252718,4.2839929 11.610839,4.0618412 11.980207,3.8461481 11.763648,3.2939988 9.6605702,2.2202509 8.2686845,2.1433182 6.7243101,2.8233041 Z"
+       id="path5857"
+       sodipodi:nodetypes="sccccs" />
+    <path
+       id="path24165"
+       style="fill:#fc4c4c;stroke:none;stroke-width:0.132292;stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers fill stroke"
+       d="m 6.9410253,3.3745284 c 0.9586706,0.042616 2.1942858,1.5973998 4.4844337,3.1017327 1.901143,1.2488067 0.281019,7.5061659 -0.847081,8.4063179 -0.9059628,0.7229 -3.7529449,-0.398013 -4.9737529,-1.000051 -3.7e-5,7.94e-4 1.9884088,0.02677 0,0.0021 C -1.5245629,7.8227753 2.4589033,2.2575729 6.9410253,3.3745284 Z"
+       sodipodi:nodetypes="cssccc" />
+    <path
+       style="color:#000000;fill:#3771c8;-inkscape-stroke:none;fill-opacity:1"
+       d="M 3.2285156,3.2128906 2.2402344,3.8730469 C 2.061493,4.2559256 2.3278512,4.3124967 2.578125,4.3808594 L 3.5664063,3.7207031 Z"
+       id="path8026"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
